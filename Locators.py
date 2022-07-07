@@ -1,0 +1,16 @@
+# Login page elements
+txt_loginUserName = "name:login"
+txt_LoginPassword = "name:password"
+btn_submit = "xpath://*[@id='login']/div[4]/form/div/input[12]"
+btn1_element = "xpath://span[@class='d-inline d-md-none d-lg-inline']"
+btn2_element = "xpath://a[normalize-space()='all of GitHub']"
+# btn3_element =
+txt_search = "name:q"
+# value1 = "tripType"    "oneway"
+# value2 = "tripCount"     "3"
+# value3 = "fromDay"    "7"
+# value4 = "toPort"     "New York"
+# value5 = "servClass"    "Business"
+# btn_submit2 = "//input[@name='findFlights']"
+# scroll1 = ""
+# clk = "xpath://*[@id='dismiss-button']/div/svg"
